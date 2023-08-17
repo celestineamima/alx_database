@@ -1,1 +1,1 @@
-My sql databse projects
+my python projects
